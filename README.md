@@ -21,6 +21,14 @@ Source: https://github.com/tomkoom/react-social-network
 
 `React.js`, `Redux`
 
+#### [RS School CV](https://tomkoom.github.io/rsschool-cv/)
+
+Source: https://github.com/tomkoom/rsschool-cv
+
+Task description: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/html-css.md
+
+`html`, `css`
+
 
 ## Codewars profile
 
