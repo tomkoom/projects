@@ -21,7 +21,7 @@ Source: https://github.com/tomkoom/react-social-network
 
 `React.js`, `Redux`
 
-#### [RS School CV](https://tomkoom.github.io/rsschool-cv/)
+#### [CV (RS School)](https://tomkoom.github.io/rsschool-cv/)
 
 Source: https://github.com/tomkoom/rsschool-cv
 
@@ -29,6 +29,21 @@ Task description: https://github.com/rolling-scopes-school/tasks/blob/master/tas
 
 `html`, `css`
 
+#### [Museum (RS School)]()
+
+Source:
+
+Task description: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md
+
+`html`, `css`
+
+## Mini-Projects
+
+#### [Dark Mode]()
+
+Source: https://github.com/tomkoom/dark-mode
+
+`js`, `html`, `css`
 
 ## Codewars profile
 
