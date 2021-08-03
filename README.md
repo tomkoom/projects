@@ -29,9 +29,7 @@ Task description: https://github.com/rolling-scopes-school/tasks/blob/master/tas
 
 `html`, `css`
 
-#### [Museum (RS School)]()
-
-Source:
+#### [Museum (RS School)](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/museum/)
 
 Task description: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md
 
