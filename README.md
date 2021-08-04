@@ -7,14 +7,6 @@ Source & task description: https://github.com/tomkoom/elinext-test
 
 `API (Flickr)`, `Pagination`, `Local Storage`, `Bootstrap`, `React.js`
 
-
-#### [Pokemon Pagination App](https://pokemon-pagination-app.netlify.app/)
-
-Source: https://github.com/tomkoom/pokemon-pagination-app
-
-`API (PokéAPI)`, `axios`, `Pagination`, `Bootstrap`, `React.js`
-
-
 #### [React Social Network](https://reactsocnet.netlify.app/)
 
 Source: https://github.com/tomkoom/react-social-network
@@ -37,11 +29,17 @@ Task description: https://github.com/rolling-scopes-school/tasks/blob/master/tas
 
 ## Mini-Projects
 
-#### [Dark Mode]()
+#### [Dark Mode](https://simpledarkmode.netlify.app/)
 
 Source: https://github.com/tomkoom/dark-mode
 
-`js`, `html`, `css`
+`html`, `css`, `js`
+
+#### [Pokemon Pagination App](https://pokemon-pagination-app.netlify.app/)
+
+Source: https://github.com/tomkoom/pokemon-pagination-app
+
+`API (PokéAPI)`, `axios`, `Pagination`, `Bootstrap`, `React.js`
 
 ## Codewars profile
 
