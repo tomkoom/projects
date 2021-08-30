@@ -1,5 +1,9 @@
 ## JS
 
+#### [Custom Video Player](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/) · [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30-4.md)
+
+`js`
+
 #### [Drum Kit](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/drum-kit/) · [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30.md)
 
 `js`
