@@ -1,20 +1,20 @@
 ## JS
 
-#### [Custom Video Player](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/) · [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30-4.md)
+#### [Custom Video Player](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/) · [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30-4.md)
 
-`js`
+`js`, `html`, `css`
 
 #### [Drum Kit](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/drum-kit/) · [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30.md)
 
-`js`
+`js`, `html`, `css`
 
 #### [Responsive Nav](https://responsivenav1.netlify.app/) · [Source code](https://github.com/tomkoom/responsive-nav)
 
-`html`, `css`, `js`
+`js`, `html`, `css`
 
 #### [Dark Mode](https://simpledarkmode.netlify.app/) · [Source code](https://github.com/tomkoom/dark-mode)
 
-`html`, `css`, `js`
+`js`, `html`, `css`
 
 ## React.js
 
