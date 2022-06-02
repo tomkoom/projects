@@ -38,7 +38,7 @@ Keywords: react, api, bootstrap, pagination, reactjs, axios, pokeapi
 
 ...
 
-#### JS
+### JS
 
 ##### [Custom Video Player](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/) · [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30-4.md)
 
