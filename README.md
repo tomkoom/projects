@@ -20,6 +20,8 @@ Keywords: react, api, github-api, spa, js, reactjs
 
 #### [ImageFinder](https://elinext-test.netlify.app/)
 
+Image search and bookmarking app.
+
 - [Source code & task description](https://github.com/tomkoom/elinext-test)
 
 - [Live site](https://elinext-test.netlify.app/)
@@ -30,11 +32,11 @@ Keywords: react, api, bootstrap, pagination, spa, js, reactjs, localstorage, fli
 
 #### [Pokemon Pagination App](https://pokemon-pagination-app.netlify.app/)
 
-Simple pokemon pagination app.
+Pokemon pagination app.
 
-[Source code](https://github.com/tomkoom/pokemon-pagination-app)
+- [Source code](https://github.com/tomkoom/pokemon-pagination-app)
 
-[Live site](https://pokemon-pagination-app.netlify.app/)
+- [Live site](https://pokemon-pagination-app.netlify.app/)
 
 Keywords: react, api, bootstrap, pagination, reactjs, axios, pokeapi
 
@@ -43,6 +45,8 @@ Keywords: react, api, bootstrap, pagination, reactjs, axios, pokeapi
 ### JS
 
 #### [Custom Video Player](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/)
+
+Custom video player.
 
 - [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30-4.md)
 
@@ -66,7 +70,11 @@ Keywords: js, html, css
 
 –––
 
-##### [Dark Mode](https://simpledarkmode.netlify.app/) · [Source code](https://github.com/tomkoom/dark-mode)
+#### [Dark Mode](https://simpledarkmode.netlify.app/)
+
+JS theme switch.
+
+- [Source code](https://github.com/tomkoom/dark-mode)
 
 Keywords: js, html, css
 
