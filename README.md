@@ -42,9 +42,9 @@ Keywords: react, api, bootstrap, pagination, reactjs, axios, pokeapi
 
 –––
 
-### [Motoko](https://internetcomputer.org/docs/current/developer-docs/build/languages/motoko/)
+### Motoko
 
-Motoko is smart contracts language on the Internet Computer network.
+[Motoko](https://internetcomputer.org/docs/current/developer-docs/build/languages/motoko/) is smart contracts language on the Internet Computer network.
 
 #### [NFT minting app](https://ys7ac-hyaaa-aaaai-qibga-cai.raw.ic0.app/)
 
