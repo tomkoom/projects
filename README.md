@@ -1,4 +1,4 @@
-A list of educational, self-initiated projects and test tasks.
+A list of educational, self-initiated projects and test tasks in chronological order.
 
 ### React.js
 
@@ -42,6 +42,20 @@ Keywords: react, api, bootstrap, pagination, reactjs, axios, pokeapi
 
 –––
 
+### [Motoko](https://internetcomputer.org/docs/current/developer-docs/build/languages/motoko/)
+
+Motoko is smart contracts language on the Internet Computer network.
+
+#### [NFT minting app](https://ys7ac-hyaaa-aaaai-qibga-cai.raw.ic0.app/)
+
+Basic NFT minting app on the Internet Computer network.
+
+- [Source code](https://github.com/tomkoom/nftminter)
+
+- [Task description](https://github.com/motoko-bootcamp/bootcamp/blob/main/core_project/PROJECT.MD)
+
+- [Live site](https://ys7ac-hyaaa-aaaai-qibga-cai.raw.ic0.app/)
+
 ### JS
 
 #### [Custom Video Player](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/)
@@ -49,6 +63,8 @@ Keywords: react, api, bootstrap, pagination, reactjs, axios, pokeapi
 Custom video player.
 
 - [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30-4.md)
+
+- [Live site](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/)
 
 Keywords: js, html, css
 
@@ -58,6 +74,8 @@ Keywords: js, html, css
 
 - [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30.md)
 
+- [Live site](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/drum-kit/)
+
 Keywords: js, html, css
 
 –––
@@ -65,6 +83,8 @@ Keywords: js, html, css
 #### [Responsive Nav](https://responsivenav1.netlify.app/)
 
 - [Source code](https://github.com/tomkoom/responsive-nav)
+
+- [Live site](https://responsivenav1.netlify.app/)
 
 Keywords: js, html, css
 
@@ -86,6 +106,8 @@ Keywords: js, html, css
 
 - [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md)
 
+- [Live site](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/museum/)
+
 Keywords: html, css
 
 –––
@@ -95,6 +117,8 @@ Keywords: html, css
 - [Source code](https://github.com/tomkoom/rsschool-cv)
 
 - [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/html-css.md)
+
+- [Live site](https://tomkoom.github.io/rsschool-cv/)
 
 Keywords: html, css
 
