@@ -2,9 +2,7 @@ A list of educational, self-initiated projects and test tasks in chronological o
 
 ### React.js
 
-#### [startup-summer-22-paralect](https://subtle-queijadas-e1c923.netlify.app/)
-
-Registration task for Paralect Startup Summer 2022.
+**[Search GitHub user](https://subtle-queijadas-e1c923.netlify.app/)** – registration task for Paralect Startup Summer 2022.
 
 - [Source code](https://github.com/tomkoom/startup-summer-22-paralect)
 
@@ -17,6 +15,8 @@ Registration task for Paralect Startup Summer 2022.
 Keywords: react, api, github-api, spa, js, reactjs
 
 –––
+
+<!-- add react + typescript rs school task -->
 
 #### [ImageFinder](https://elinext-test.netlify.app/)
 
