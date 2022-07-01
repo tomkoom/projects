@@ -4,6 +4,8 @@ A list of educational, self-initiated projects and test tasks in chronological o
 
 **[Search GitHub user](https://subtle-queijadas-e1c923.netlify.app/)** – registration task for Paralect Startup Summer 2022.
 
+Keywords: react, api, github-api, spa, js, reactjs
+
 - [Source code](https://github.com/tomkoom/startup-summer-22-paralect)
 
 - [Task description](https://startup-summer-task.paralect.com/)
@@ -12,23 +14,19 @@ A list of educational, self-initiated projects and test tasks in chronological o
 
 - [Live site](https://subtle-queijadas-e1c923.netlify.app/)
 
-Keywords: react, api, github-api, spa, js, reactjs
-
-–––
+· · ·
 
 <!-- add react + typescript rs school task -->
 
-#### [ImageFinder](https://elinext-test.netlify.app/)
+**[ImageFinder](https://elinext-test.netlify.app/)** – image search and bookmarking app.
 
-Image search and bookmarking app.
+Keywords: react, api, bootstrap, pagination, spa, js, reactjs, localstorage, flickr-api
 
 - [Source code & task description](https://github.com/tomkoom/elinext-test)
 
 - [Live site](https://elinext-test.netlify.app/)
 
-Keywords: react, api, bootstrap, pagination, spa, js, reactjs, localstorage, flickr-api
-
-–––
+· · ·
 
 #### [Pokemon Pagination App](https://pokemon-pagination-app.netlify.app/)
 
@@ -40,7 +38,7 @@ Pokemon pagination app.
 
 Keywords: react, api, bootstrap, pagination, reactjs, axios, pokeapi
 
-–––
+· · ·
 
 ### Motoko
 
@@ -68,7 +66,7 @@ Custom video player.
 
 Keywords: js, html, css
 
-–––
+· · ·
 
 #### [Drum Kit](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/drum-kit/)
 
@@ -78,7 +76,7 @@ Keywords: js, html, css
 
 Keywords: js, html, css
 
-–––
+· · ·
 
 #### [Responsive Nav](https://responsivenav1.netlify.app/)
 
@@ -88,7 +86,7 @@ Keywords: js, html, css
 
 Keywords: js, html, css
 
-–––
+· · ·
 
 #### [Dark Mode](https://simpledarkmode.netlify.app/)
 
