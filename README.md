@@ -12,7 +12,7 @@ Keywords: react, api, github-api, spa, js, reactjs
 
 - [Design layout in Figma](https://www.figma.com/file/nPPYeW9okkBbIfxafG8XJP/Startup-Summer-2021-Task?node-id=0%3A1)
 
-- [Live site](https://subtle-queijadas-e1c923.netlify.app/)
+- [Live](https://subtle-queijadas-e1c923.netlify.app/)
 
 · · ·
 
@@ -24,19 +24,17 @@ Keywords: react, api, bootstrap, pagination, spa, js, reactjs, localstorage, fli
 
 - [Source code & task description](https://github.com/tomkoom/elinext-test)
 
-- [Live site](https://elinext-test.netlify.app/)
+- [Live](https://elinext-test.netlify.app/)
 
 · · ·
 
-#### [Pokemon Pagination App](https://pokemon-pagination-app.netlify.app/)
+**[Pokemon Pagination App](https://pokemon-pagination-app.netlify.app/)** – simple pagination app.
 
-Pokemon pagination app.
+Keywords: react, api, bootstrap, pagination, reactjs, axios, pokeapi
 
 - [Source code](https://github.com/tomkoom/pokemon-pagination-app)
 
-- [Live site](https://pokemon-pagination-app.netlify.app/)
-
-Keywords: react, api, bootstrap, pagination, reactjs, axios, pokeapi
+- [Live](https://pokemon-pagination-app.netlify.app/)
 
 · · ·
 
@@ -44,83 +42,77 @@ Keywords: react, api, bootstrap, pagination, reactjs, axios, pokeapi
 
 [Motoko](https://internetcomputer.org/docs/current/developer-docs/build/languages/motoko/) is smart contracts language on the Internet Computer network.
 
-#### [NFT minting app](https://ys7ac-hyaaa-aaaai-qibga-cai.raw.ic0.app/)
-
-Basic NFT minting app on the Internet Computer network.
+**[NFT minting app](https://ys7ac-hyaaa-aaaai-qibga-cai.raw.ic0.app/)** – basic NFT minting app on the Internet Computer network.
 
 - [Source code](https://github.com/tomkoom/nftminter)
 
 - [Task description](https://github.com/motoko-bootcamp/bootcamp/blob/main/core_project/PROJECT.MD)
 
-- [Live site](https://ys7ac-hyaaa-aaaai-qibga-cai.raw.ic0.app/)
+- [Live](https://ys7ac-hyaaa-aaaai-qibga-cai.raw.ic0.app/)
 
 ### JS
 
-#### [Custom Video Player](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/)
+**[Custom Video Player](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/)** – custom video player.
 
-Custom video player.
+Keywords: js, html, css
 
 - [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30-4.md)
 
-- [Live site](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/)
-
-Keywords: js, html, css
+- [Live](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/custom-video-player/)
 
 · · ·
 
-#### [Drum Kit](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/drum-kit/)
+**[Drum Kit](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/drum-kit/)** – Roland TR-808 Rhytm Composer drum kit.
+
+Keywords: js, html, css
 
 - [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30/js30.md)
 
-- [Live site](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/drum-kit/)
-
-Keywords: js, html, css
+- [Live](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/drum-kit/)
 
 · · ·
 
-#### [Responsive Nav](https://responsivenav1.netlify.app/)
+**[Responsive Nav](https://responsivenav1.netlify.app/)**
+
+Keywords: js, html, css
 
 - [Source code](https://github.com/tomkoom/responsive-nav)
 
-- [Live site](https://responsivenav1.netlify.app/)
-
-Keywords: js, html, css
+- [Live](https://responsivenav1.netlify.app/)
 
 · · ·
 
-#### [Dark Mode](https://simpledarkmode.netlify.app/)
-
-JS theme switch.
-
-- [Source code](https://github.com/tomkoom/dark-mode)
+**[Dark Mode](https://simpledarkmode.netlify.app/)** – simple JavaScript theme switch.
 
 Keywords: js, html, css
 
-–––
+- [Source code](https://github.com/tomkoom/dark-mode)
+
+· · ·
 
 ### HTML, CSS
 
-#### [Museum (RS School)](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/museum/)
-
-- [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md)
-
-- [Live site](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/museum/)
+**[Museum (RS School)](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/museum/)** – CSS / HTML Louvre Museum website layout.
 
 Keywords: html, css
 
-–––
+- [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md)
 
-#### [CV (RS School)](https://tomkoom.github.io/rsschool-cv/)
+- [Live](https://rolling-scopes-school.github.io/tomkoom-JSFEPRESCHOOL/museum/)
+
+· · ·
+
+**[CV (RS School)](https://tomkoom.github.io/rsschool-cv/)**
+
+Keywords: html, css
 
 - [Source code](https://github.com/tomkoom/rsschool-cv)
 
 - [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/html-css.md)
 
-- [Live site](https://tomkoom.github.io/rsschool-cv/)
+- [Live](https://tomkoom.github.io/rsschool-cv/)
 
-Keywords: html, css
-
-–––
+· · ·
 
 ### Codewars
 
